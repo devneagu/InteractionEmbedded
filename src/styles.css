@@ -1,0 +1,22 @@
+body {
+  background: #f7b7dd;
+}
+
+*:focus {
+  outline: none;
+}
+::-webkit-scrollbar {
+  width: 0.5em;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: gray;
+  border-radius: 16px;
+  border: 4px solid transparent;
+}
