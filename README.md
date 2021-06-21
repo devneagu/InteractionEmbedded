@@ -1,8 +1,6 @@
 # InteractionEmbedded
-Created with CodeSandbox
 
-
-To Do:
+###To Do:
  
 1. Refactor the code, divide the styled components into different files.
 2. Create a Dynamic Quiz Component
